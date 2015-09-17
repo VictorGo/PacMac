@@ -1,0 +1,11 @@
+//Tamaño del canvas
+size(1000,900);
+background(0);
+
+//PacMan
+
+fill(252,216,3);
+arc(500, 500, 200, 200, PI/6, 11*PI/6);
+noStroke();
+fill(0);
+ellipse(500,445,20,20);
